@@ -30,6 +30,7 @@ Self-hosting is recommended for advanced users only who are experienced with the
 ### Update Server
 
 The *Update Server* is an optional part of RoVer that can be enabled in `client.json`. It is an HTTP server that can listen for requests and globally update a member in all guilds that the bot is in, similar to if they ran `!verify` in every guild. This is used internally on the hosted version for when the user verifies on verify.eryn.io, but you could use it for whatever purpose you wish.
+[![Run on Repl.it](https://repl.it/badge/github/evaera/RoVer)](https://repl.it/github/evaera/RoVer)
 
 ### client.json options
 
